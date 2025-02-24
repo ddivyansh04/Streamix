@@ -1,4 +1,4 @@
-<h1 align="center">Playtime</h1>
+<h1 align="center">Streamix</h1>
 <p align="center">
 </p>
   
@@ -6,7 +6,7 @@
 ## Getting started:
   To get started with the project, you will need to follow these steps:
   
-  1. Clone the repository: git clone https://github.com/archie-a18/PlayTime.git
+  1. Clone the repository: git clone https://github.com/ddivyansh04/Streamix.git
   2. Start the server: cd frontend -> npm i -> npm start
   3. Start the backend in parallel terminal: cd backend -> npm i -> npm start
   4. Start the games server separately in parallel terminal: cd Games -> cd 2048-animated -> npm i -> npm start
@@ -46,7 +46,7 @@
  
 
 ## Contributing: 
-If you would like to contribute to Playtime, you can follow these steps:
+If you would like to contribute to Streamix, you can follow these steps:
 
 * Fork the repository
 * Create a new branch: git checkout -b new-feature
